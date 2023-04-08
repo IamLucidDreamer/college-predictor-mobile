@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564663081460",
+    "project_id": "test-careerkick-otp",
+    "storage_bucket": "test-careerkick-otp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564663081460:android:239b75bd8425f16da681a1",
+        "android_client_info": {
+          "package_name": "in.careerkick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564663081460-sobibnmkb5t6cnis29a2e98ou72c8cah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDub9UA-jU-gDDtq6BvwBjpBFWfIaOU098"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564663081460-sobibnmkb5t6cnis29a2e98ou72c8cah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
